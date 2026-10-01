@@ -1,0 +1,21 @@
+{
+  "pet_scale": 1.0,
+  "pet_position": [
+    1303,
+    725
+  ],
+  "always_on_top": true,
+  "pixel_perfect_hit": true,
+  "bubble_scale": 1.0,
+  "bubble_gap": 0.1,
+  "bubble_duration": 4.0,
+  "bubble_interval_min": 20.0,
+  "bubble_interval_max": 45.0,
+  "startup_greeting": true,
+  "startup_bubble": "bubble_1.png",
+  "idle_exclude": [
+    "bubble_1.png"
+  ],
+  "click_to_speak": true,
+  "autostart": false
+}
